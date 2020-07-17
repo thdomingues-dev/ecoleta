@@ -6,5 +6,5 @@ Project developed using TypeScript on NLW - Rocketseat
 ![ecoleta-2](https://user-images.githubusercontent.com/38081852/84095189-04178580-a9d5-11ea-9496-9ec6f6a282e5.png)
 This project has been developed using the following techs: TypeScript - NodeJS - ReactJS - React Native
 
-#Goals
+# Goals
 Provide means for disposing of recyclable material. In the frontend companies register collection points and in the mobile app people can find the nearest disposal site.
